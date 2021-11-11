@@ -68,7 +68,7 @@ The electronic Holly Quran browser Elforkane
 	
 	فارسى - حسين تاجى كله دارى
 	
-	# Install
+# Install
 	
 	git clone https://github.com/zakariakov/elforkane-data
 	
